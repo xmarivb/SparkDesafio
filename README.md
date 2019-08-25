@@ -63,11 +63,18 @@ Por fim o resultado, que seria uma lista de palavras e quantidade de ocorrência
 ### Referências
 
 http://spark.apache.org/docs/latest/rdd-programming-guide.html
+
 https://spark.apache.org/examples.html
+
 https://www.infoworld.com/article/3014440/five-things-you-need-to-know-about-hadoop-v-apache-spark.html
+
 https://www.quora.com/What-makes-Spark-faster-than-MapReduce
+
 http://monografias.poli.ufrj.br/monografias/monopoli10020199.pdf
+
 https://docs.microsoft.com/pt-br/azure/hdinsight/spark/apache-spark-overview
+
 https://www.devmedia.com.br/introducao-ao-apache-spark/34178
+
 https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html
 
